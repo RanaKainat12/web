@@ -82,14 +82,14 @@ body {
 
 .tree-left {
   width: 100px;
-  top: 600px;
+  bottom: 120px;
   left: 300px;
   z-index: 10;
 }
 
 .tree-right {
   width: 100px;
-  top: 600px;
+  bottom: 120px;
   right: 300px;
 }
 
