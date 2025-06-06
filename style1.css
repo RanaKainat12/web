@@ -67,7 +67,7 @@ body {
 
 .mosque {
   bottom: 90px;
-  width: 500px;
+  width: 600px;
 }
 
 .h1 {
@@ -77,30 +77,30 @@ body {
 
 .family {
   bottom: 140px;
-  width: 200px;
+  width: 220px;
 }
 
 .tree-left {
   width: 100px;
-  top: 440px;
+  top: 540px;
   left: 300px;
   z-index: 10;
 }
 
 .tree-right {
   width: 100px;
-  top: 440px;
+  top: 540px;
   right: 300px;
 }
 
 .lantern-left {
-  width: 130px;
+  width: 150px;
   top: 0px;
   left: 20px;
 }
 
 .lantern-right {
-  width: 130px;
+  width: 150px;
   top: 0px;
   right: 20px;
 }
@@ -108,25 +108,25 @@ body {
 .moon {
   width: 80px;
   top: 100px;
-  left: 350px;
+  left: 0px;
   
 }
 
 .clouds {
   width:140px;
   top: 100px;
-  left: 350px;
+  left: 320px;
 }
 
 .lantern_left-1 {
   width: 100px;
-  top: 490px;
+  top: 590px;
   left: 50px;
 }
 
 .lantern_left-2 {
   width: 130px;
-  top: 590px;
+  top: 600px;
   left: 30px;
   z-index: 10;
 }
@@ -139,13 +139,13 @@ body {
 
 .lantern_right-1 {
   width: 100px;
-  top: 490px;
+  top: 590px;
   right: 50px;
 }
 
 .lantern_right-2 {
   width: 130px;
-  top: 590px;
+  top: 600px;
   right: 30px;
   z-index: 10;
 }
