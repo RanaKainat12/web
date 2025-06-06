@@ -82,14 +82,14 @@ body {
 
 .tree-left {
   width: 100px;
-  bottom: 120px;
+  bottom: 100px;
   left: 300px;
   z-index: 10;
 }
 
 .tree-right {
   width: 100px;
-  bottom: 120px;
+  bottom: 100px;
   right: 300px;
 }
 
@@ -108,12 +108,12 @@ body {
 .moon {
   width: 60px;
   top: 100px;
-  left: 0px;
+  left:  30px;
   
 }
 
 .clouds {
-  width:100px;
+  width:120px;
   top: 100px;
   left: 250px;
 }
@@ -126,7 +126,7 @@ body {
 
 .lantern_left-2 {
   width: 120px;
-  top: 390px;
+  bottom: 120px;
   left: 30px;
   z-index: 10;
 }
@@ -145,7 +145,7 @@ body {
 
 .lantern_right-2 {
   width: 120px;
-  top: 390px;
+  bottom: 120px;
   right: 30px;
   z-index: 10;
 }
